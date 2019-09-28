@@ -36,12 +36,13 @@ some of the things we are thinking about.
 
 ## MVP Implementation
 
-We plan to begin immediately on a very simple implementation in Cargo that is
-capable of building the standard library with a project. There will be no UI
-other than a nightly `-Z` flag to enable this behavior. This will only work on
-a small subset of supported platforms, perhaps just Linux or macOS. This
-likely won't be useful to anyone, but is intended to work through
-implementation issues. [See more.](https://github.com/rust-lang/wg-cargo-std-aware/issues/10)
+An initial version is available on the latest Rust nightly releases. This
+version is very minimal, with a simple `-Z` flag to enable. There are a large
+number of known issues with this implementation, and it is not intended to
+work for all targets and should not be used for anything other than
+experimentation and testing.
+
+Documentation may be found at: https://doc.rust-lang.org/nightly/cargo/reference/unstable.html#build-std
 
 ## RFCs
 
