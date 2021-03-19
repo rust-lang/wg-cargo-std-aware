@@ -68,8 +68,8 @@ issues](https://github.com/rust-lang/wg-cargo-std-aware/issues?q=is%3Aopen+is%3A
 Once implementations are available on nightly, helping to test it out is very
 valuable.
 
-The Cargo team can also be reached on [#cargo channel on
-Discord](https://discord.gg/rust-lang).
+The Cargo team can also be reached on [#t-cargo on
+Zulip](https://rust-lang.zulipchat.com/#narrow/stream/246057-t-cargo).
 
 ## History
 
